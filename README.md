@@ -17,7 +17,7 @@ Power Apps;
 </p>
 
 ## Exel:
-![image](https://github.com/Raafaaeel/INFORMATICAE4/assets/163483898/86594550-a01d-494f-a32d-85b923698de2)
+
 
 <!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
 <p align="center">
